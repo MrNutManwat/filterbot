@@ -1,6 +1,6 @@
 const disc = require("discord.js");
 const fs = require("fs")
-const token = "NDQ5MTg4NjM3MTEyOTI2MjA4.DehEJg.CI-s3sYF0mYhUSp3B-shOxgW-_8";
+const token = "sad";
 var filter = JSON.parse(fs.readFileSync('filter.json',"utf8"));
 var bot = new disc.Client();
 var preheck = "$";
